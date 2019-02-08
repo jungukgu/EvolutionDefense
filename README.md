@@ -1,2 +1,0 @@
-# EvolutionDefense
-KH_miniProject
